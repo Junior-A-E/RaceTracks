@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_blue_down.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_blue.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_red_down.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_red.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/car.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/car2.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/cone_down.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/cone_straight.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/GameFont.spritefont</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/oil.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/road.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/roadTiny.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/rock1.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/rock2.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/rock3.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/tree_large.png</File>
+    <File>C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/tree_small.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

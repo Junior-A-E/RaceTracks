@@ -1,0 +1,108 @@
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_blue.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_blue_down.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_red.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_red_down.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\car.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\car2.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\cone_down.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\cone_straight.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\GameFont.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\oil.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\road.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\roadTiny.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\rock1.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\rock2.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\rock3.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\tree_large.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Content\tree_small.xnb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.exe
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.deps.json
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.runtimeconfig.json
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.pdb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.csproj.AssemblyReference.cache
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.AssemblyInfoInputs.cache
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.AssemblyInfo.cs
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.csproj.CoreCompileInputs.cache
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.csproj.CopyComplete
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\refint\RaceTrack.dll
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.pdb
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.genruntimeconfig.cache
+C:\Users\Gerke\source\repos\RaceTrack\RaceTrack\obj\Debug\net6.0-windows\ref\RaceTrack.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_blue.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_blue_down.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_red.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\barrel_red_down.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\car.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\car2.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\cone_down.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\cone_straight.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\GameFont.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\oil.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\road.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\roadTiny.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\rock1.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\rock2.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\rock3.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\tree_large.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Content\tree_small.xnb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.exe
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.deps.json
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.runtimeconfig.json
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\RaceTrack.pdb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.csproj.AssemblyReference.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.AssemblyInfoInputs.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.AssemblyInfo.cs
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.csproj.CoreCompileInputs.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.csproj.CopyComplete
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\refint\RaceTrack.dll
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.pdb
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\RaceTrack.genruntimeconfig.cache
+C:\Users\afatc\OneDrive\LICENCE\Bac4\Game Computing\RaceTracks_Start\RaceTracks_Start\RaceTrack\obj\Debug\net6.0-windows\ref\RaceTrack.dll

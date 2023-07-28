@@ -1,0 +1,18 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_blue_down.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/barrel_blue_down.xnb","TextureProcessor","Texture2DContent",1405,3445,0,4655351
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_blue.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/barrel_blue.xnb","TextureProcessor","Texture2DContent",2021,3221,0,0147789
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_red_down.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/barrel_red_down.xnb","TextureProcessor","Texture2DContent",1401,3445,0,0049376
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/barrel_red.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/barrel_red.xnb","TextureProcessor","Texture2DContent",1997,3221,0,0152715
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/car.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/car.xnb","TextureProcessor","Texture2DContent",2618,8485,0,0119092
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/car2.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/car2.xnb","TextureProcessor","Texture2DContent",2095,9185,0,0137763
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/cone_down.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/cone_down.xnb","TextureProcessor","Texture2DContent",1573,2109,0,0112197
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/cone_straight.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/cone_straight.xnb","TextureProcessor","Texture2DContent",1666,2021,0,0128851
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/GameFont.spritefont","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2006,267295,1,3277965
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/oil.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/oil.xnb","TextureProcessor","Texture2DContent",2388,10237,0,0223411
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/road.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/road.xnb","TextureProcessor","Texture2DContent",436118,65536085,5,099098
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/roadTiny.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/roadTiny.xnb","TextureProcessor","Texture2DContent",138214,16384085,1,0488405
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/rock1.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/rock1.xnb","TextureProcessor","Texture2DContent",2324,6421,0,0210487
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/rock2.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/rock2.xnb","TextureProcessor","Texture2DContent",2056,4981,0,0093914
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/rock3.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/rock3.xnb","TextureProcessor","Texture2DContent",2217,5761,0,015018
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/tree_large.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/tree_large.xnb","TextureProcessor","Texture2DContent",4630,45453,0,0109357
+"C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/tree_small.png","C:/Users/Gerke/source/repos/RaceTrack/RaceTrack/Content/bin/Windows/tree_small.xnb","TextureProcessor","Texture2DContent",3256,19685,0,0123427
